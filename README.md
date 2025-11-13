@@ -15,7 +15,7 @@
   
 - [x] `Python`
 - Download Python Release for macOS [Python](https://www.python.org/downloads/macos/)
-### If you have already Xcode and Python, skip the [Prerequisite steps.](https://github.com/chris1111/Clover-Buildme?tab=readme-ov-file#prerequisite-xcode-and-python-3115-or-higher-must-be-installed.)
+### If you have already Xcode and Python, skip the [Prerequisite steps](https://github.com/chris1111/Clover-Buildme?tab=readme-ov-file#prerequisite-xcode-and-python-3115-or-higher-must-be-installed)
 
 ####  `Clone and Build`
 ```bash
