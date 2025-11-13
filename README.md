@@ -8,15 +8,15 @@
 
 <img src="Icons/Screenshot-1.png" alt="Github Project" style="width:25%;"><img src="Icons/Screenshot-2.png" alt="Github Project" style="width:25%;"><img src="Icons/Screenshot-3.png" alt="Github Project" style="width:25%;">
 
-#### Prerequisite: Xcode and Python 3.11.5 or higher 
+#### Prerequisite: Xcode and Python 3.11.5 or higher must be installed.
 
 - [x] `Xcode`
 - Download Xcode [Xcode App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12) After downloading ➦ Open Xcode at least once
   
 - [x] `Python`
 - Download Python Release for macOS [Python](https://www.python.org/downloads/macos/)
-- If you have already Xcode and Python, skip the Prerequisite steps.
-  
+### If you have already Xcode and Python, skip the [Prerequisite steps.](https://github.com/chris1111/Clover-Buildme?tab=readme-ov-file#prerequisite-xcode-and-python-3115-or-higher-must-be-installed.)
+
 ####  `Clone and Build`
 ```bash
 git clone https://github.com/chris1111/Clover-Buildme.git && cd $HOME/Clover-Buildme && make
