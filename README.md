@@ -21,4 +21,4 @@ git clone https://github.com/chris1111/Clover-Buildme.git && cd $HOME/Clover-Bui
 
 #### Move the App to the Applications 
 - Go to System Settings/Login Items & Extensions then add the app by the + button to make the app at login
-<img src="Icons/Screenshot-4.png" alt="Github Project" style="width:25%;">
+<img src="Icons/Screenshot-4.png" alt="Github Project" style="width:50%;">
