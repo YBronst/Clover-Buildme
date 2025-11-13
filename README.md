@@ -26,7 +26,7 @@ git clone https://github.com/YBronst/Clover-Buildme.git && cd $HOME/Clover-Build
 -------------------------------------------------------
 
 #### Download Release ➥ [Clover-Buildme](https://github.com/YBronst/Clover-Buildme/releases/tag/V1m)
-#### Download Build Artifacts ➥ [Artifacts](https://github.com//YBronst/Clover-Buildme/actions)
+#### Download Build Artifacts ➥ [Artifacts](https://github.com/YBronst/Clover-Buildme/actions)
 
 #### Move the App to the Applications 
 - Go to System Settings/Login Items & Extensions then add the app by the + button to make the app at login
