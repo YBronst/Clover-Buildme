@@ -20,7 +20,7 @@ Credit: [Team Clover](https://github.com/CloverHackyColor/CloverBootloader)
 
 ####  `Clone and Build`
 ```bash
-git clone https://github.com/chris1111/Clover-Buildme.git && cd $HOME/Clover-Buildme && make
+git clone https://github.com/YBronst/Clover-Buildme.git && cd $HOME/Clover-Buildme && make
 ```
 
 -------------------------------------------------------
