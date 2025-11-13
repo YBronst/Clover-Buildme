@@ -1,8 +1,8 @@
-# Clover Buildme its an AppleScriptObjC Project
+# Clover Buildme
 
 [![Clover-Buildme](https://github.com/chris1111/Clover-Buildme/actions/workflows/Build.yml/badge.svg)](https://github.com/chris1111/Clover-Buildme/actions/workflows/Build.yml)
 
-### Clover Buildme is a Status Bar App for compiling Clover and launching buildme from the Menu Bar
+### Clover Buildme its an AppleScriptObjC Project, it is Status Bar App for compiling Clover and launching buildme from the Menu Bar
 - If you have already compile Clover, you can use the App with the Button `Open 🍀 Clover Buildme`
 
 
