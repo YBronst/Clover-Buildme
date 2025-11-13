@@ -3,5 +3,5 @@
 rm -rf ~/src
 mkdir -p ~/src
 cd ~/src
-git clone https://github.com/CloverHackyColor/CloverBootloader.git
+git clone https://github.com/YBronst/CloverBootloader.git
 cd ~/src/CloverBootloader && ./buildme
