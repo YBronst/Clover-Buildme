@@ -2,9 +2,10 @@
 
 [![Clover-Buildme](https://github.com/chris1111/Clover-Buildme/actions/workflows/Build.yml/badge.svg)](https://github.com/chris1111/Clover-Buildme/actions/workflows/Build.yml) [![License: MIT](https://github.com/chris1111/Clover-Buildme/blob/main/Icons/MIT.svg)](https://github.com/chris1111/Clover-Buildme/blob/main/LICENSE)
 
+Credit: [Team Clover](https://github.com/CloverHackyColor/CloverBootloader)
+
 ### Clover Buildme its an AppleScriptObjC Project, it is Status Bar App for compiling Clover and launching buildme from the Menu Bar
 - If you have already compile Clover, you can use the App with the Button `Open 🍀 Clover Buildme`
-
 
 <img src="Icons/Screenshot-1.png" alt="Github Project" style="width:25%;"><img src="Icons/Screenshot-2.png" alt="Github Project" style="width:25%;"><img src="Icons/Screenshot-3.png" alt="Github Project" style="width:25%;">
 
